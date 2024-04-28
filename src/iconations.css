@@ -8,9 +8,9 @@
 }
 
 .icona.anz {
-  background-image: url("Iconnations/anz.svg");
+  background-image: URL("../Iconnations/anz.svg");
 }
 
 .icona.anz-fill {
-  background-image: url("Iconnations/anz-fill.svg");
+  background-image: URL("../Iconnations/anz-fill.svg");
 }
