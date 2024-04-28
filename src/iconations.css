@@ -4,6 +4,7 @@
   height: 100px; /* Adjust size as needed */
   background-size: contain;
   background-repeat: no-repeat;
+  color: inherit;
 }
 
 .icona.anz {
