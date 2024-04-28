@@ -4,13 +4,12 @@
   height: 100px; /* Adjust size as needed */
   background-size: contain;
   background-repeat: no-repeat;
-  color: aliceblue;
 }
 
 .icona.anz {
-  background-image: URL("../Iconnations/anz.svg");
+  background-image: URL("../Iconations/anz.svg");
 }
 
 .icona.anz-fill {
-  background-image: URL("../Iconnations/anz-fill.svg");
+  background-image: URL("../Iconations/anz-fill.svg");
 }
