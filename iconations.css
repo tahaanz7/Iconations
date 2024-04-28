@@ -1,0 +1,16 @@
+.icona {
+  display: inline-block;
+  width: 100px; /* Adjust size as needed */
+  height: 100px; /* Adjust size as needed */
+  background-size: contain;
+  background-repeat: no-repeat;
+  color: aliceblue;
+}
+
+.icona.anz {
+  background-image: url("Iconnations/anz.svg");
+}
+
+.icona.anz-fill {
+  background-image: url("Iconnations/anz-fill.svg");
+}
